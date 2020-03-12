@@ -1,6 +1,6 @@
-# refresh
+# Refresh
 
-A new Flutter project.
+Pull JSON Data with Pull to refresh new data
 
 ## Getting Started
 
